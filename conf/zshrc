@@ -1,0 +1,28 @@
+# If you come from bash you might have to change your $PATH.
+# export PATH=$HOME/bin:/usr/local/bin:$PATH
+
+# Path to your oh-my-zsh installation.
+export ZSH="/Users/zhang/.oh-my-zsh"
+
+# 主题
+ZSH_THEME="ys"
+
+# 插件
+# Which plugins would you like to load?
+# Standard plugins can be found in $ZSH/plugins/
+# Custom plugins may be added to $ZSH_CUSTOM/plugins/
+# Example format: plugins=(rails git textmate ruby lighthouse)
+plugins=(
+  git
+  zsh-autosuggestions
+  zsh-syntax-highlighting
+)
+bindkey ',' autosuggest-accept # 重新绑定按键
+
+source $ZSH/oh-my-zsh.sh
+source ~/.bash_profile
+
+# 别名
+# Example aliases
+# alias zshconfig="mate ~/.zshrc"
+# alias ohmyzsh="mate ~/.oh-my-zsh"
