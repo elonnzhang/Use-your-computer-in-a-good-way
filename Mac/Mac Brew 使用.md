@@ -2,7 +2,7 @@
 
 ## 介绍
 
-![image-20201203133833483](./img/image-20201203133833483.png)
+<img src="./img/image-20201203133833483.png" alt="image-20201203133833483" style="zoom: 50%;" />
 
 > Homebrew installs [the stuff you need](https://formulae.brew.sh/formula/) that Apple (or your Linux system) didn’t.
 
