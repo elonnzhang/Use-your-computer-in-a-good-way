@@ -2,7 +2,7 @@
 
 ## 介绍
 
-![image-20201203133833483](/Users/zhang/Use your computer in a good way/Mac/img/image-20201203133833483.png)
+![image-20201203133833483](./img/image-20201203133833483.png)
 
 > Homebrew installs [the stuff you need](https://formulae.brew.sh/formula/) that Apple (or your Linux system) didn’t.
 
@@ -26,7 +26,7 @@
 
 `brew -v` 查看版本
 
-![image-20201203133734997](/Users/zhang/Use your computer in a good way/Mac/img/image-20201203133734997.png)
+![image-20201203133734997](./img/image-20201203133734997.png)
 
 ## 常用命令
 
