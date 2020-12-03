@@ -1,2 +1,1 @@
-# Use-your-computer-in-a-good-way
-积累
+## Use your computer in a good way
