@@ -90,3 +90,5 @@ redis  stopped
 ```
 
 完结
+
+![homebrew](img/homebrew.png)
