@@ -2,7 +2,7 @@
 
 ## 介绍
 
-![image-20201203121450102](https://raw.githubusercontent.com/Jabari-z/PicGoRepo/master/img/image-20201203121450102.png?token=ALYX5X4QVZZ5NM44AR2WG2S7ZBTHW)
+![image-20201203133833483](/Users/zhang/Use your computer in a good way/Mac/img/image-20201203133833483.png)
 
 > Homebrew installs [the stuff you need](https://formulae.brew.sh/formula/) that Apple (or your Linux system) didn’t.
 
@@ -26,7 +26,7 @@
 
 `brew -v` 查看版本
 
-![image-20201203122220696](https://raw.githubusercontent.com/Jabari-z/PicGoRepo/master/img/image-20201203122220696.png?token=ALYX5X4ZYM7XCCJYDXDYQUS7ZBUD4)
+![image-20201203133734997](/Users/zhang/Use your computer in a good way/Mac/img/image-20201203133734997.png)
 
 ## 常用命令
 
